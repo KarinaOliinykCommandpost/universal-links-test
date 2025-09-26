@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6462425792.com.command.post.app",
+        "paths": [
+          "/auth/password-reset",
+          "/reset_password",
+          "/auth/invite",
+          "/signin",
+          "/auth/forgot-password"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "6462425792.com.command.post.app"
+    ]
+  }
+}
