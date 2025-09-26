@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "6462425792.com.command.post.app",
+        "appID": "R6PU4UBSN6.com.command.post.app",
         "paths": [
           "/auth/password-reset",
           "/reset_password",
@@ -12,11 +12,6 @@
           "/auth/forgot-password"
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "6462425792.com.command.post.app"
     ]
   }
 }
